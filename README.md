@@ -1,6 +1,7 @@
 DIY arcade stick project 
 ====
-Made with solidworks and lasercutting.
+Basically it is for playing new PS4 gundam game.
+-> https://g-rwee.ggame.jp/
 
 
 Materials used:
