@@ -26,7 +26,13 @@ Tools:
 Button Mapping:
 ----
 SEGA Astrocity p2 (by slagcoin)
+![image](https://github.com/100minus13/arcadestick/blob/master/sega2_l.png)
 
+Wiring:
+-----
+![image](https://github.com/100minus13/arcadestick/blob/master/photo_2020-05-27_14-31-52.jpg
+)
 # Have fun!
-*Solidwokrs files have their respective directions for the arcade stick case indicated. See files uploaded.
+*Solidworks files have their respective directions for the arcade stick case indicated. See files uploaded.
+
 
