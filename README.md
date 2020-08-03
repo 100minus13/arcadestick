@@ -1,5 +1,7 @@
-# DIY arcade stick project during quarantine period. Made with solidworks and lasercutting.
-======
+# DIY arcade stick project 
+===
+Made with solidworks and lasercutting.
+
 
 Materials used:
 -----
