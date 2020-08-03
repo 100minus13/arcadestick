@@ -1,5 +1,5 @@
-# DIY arcade stick project 
-===
+DIY arcade stick project 
+====
 Made with solidworks and lasercutting.
 
 
