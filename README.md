@@ -24,6 +24,6 @@ Tools:
 
 Button Mapping:
 ----
-SEGA Astrocity p2
+SEGA Astrocity p2 (by slagcoin)
 
 # Have fun!
