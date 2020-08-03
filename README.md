@@ -1,6 +1,6 @@
 DIY arcade stick project 
 ====
-Basically it is for playing new PS4 gundam game.
+Basically it is for playing the new PS4 gundam game.
 -> https://g-rwee.ggame.jp/
 
 
@@ -17,6 +17,13 @@ Materials used:
 
 Tools:
 -----
-1. Laser cutter
+1. Laser Cutter
 2. Solidworks
-3. soldering iron
+3. Soldering Iron
+4. Drill
+
+Button Mapping:
+----
+SEGA Astrocity p2
+
+# Have fun!
