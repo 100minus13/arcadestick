@@ -27,3 +27,4 @@ Button Mapping:
 SEGA Astrocity p2 (by slagcoin)
 
 # Have fun!
+![image] (https://github.com/100minus13/arcadestick/blob/master/photo_2020-06-20_14-35-00.jpg)
