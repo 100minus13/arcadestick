@@ -2,6 +2,7 @@ DIY arcade stick project
 ====
 Basically it is for playing the new PS4 gundam game.
 -> https://g-rwee.ggame.jp/
+![image](https://github.com/100minus13/arcadestick/blob/master/photo_2020-06-20_14-35-00.jpg)
 
 
 Materials used:
@@ -27,4 +28,5 @@ Button Mapping:
 SEGA Astrocity p2 (by slagcoin)
 
 # Have fun!
-![image](https://github.com/100minus13/arcadestick/blob/master/photo_2020-06-20_14-35-00.jpg)
+*Solidwokrs files have their respective directions for the arcade stick case indicated. See files uploaded.
+
